@@ -63,5 +63,5 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\Icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <Import Project="Signing.targets" Condition="Exists('Signing.targets')" />
 </Project>
-<Import Project="Signing.targets" Condition="Exists('Signing.targets')" />
