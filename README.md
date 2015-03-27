@@ -1,0 +1,1 @@
+Refers to the [Xamarin Bugzilla #28460](https://bugzilla.xamarin.com/show_bug.cgi?id=28460#c1)
