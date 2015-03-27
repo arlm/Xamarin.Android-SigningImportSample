@@ -1,6 +1,6 @@
 
 Building: Sample (Release)
-error: /Users/alexandre/git/mono/SigningImportSample/Sample/Sample.csproj: Signing.targets: Project file could not be imported, it was being imported by /Users/alexandre/git/mono/SigningImportSample/Sample/Sample.csproj: Invalid element 'AndroidKeyStore' in project file '/Users/alexandre/git/mono/SigningImportSample/Sample/Signing.targets'.
+error: /Users/alexandre/git/mono/SigningImportSample/Sample/Sample.csproj: Signing.targets: Project file could not be imported, it was being imported by /Users/alexandre/git/mono/SigningImportSample/Sample/Sample.csproj: Multiple document element was detected.  Line 3, position 6.
 
 ---------------------- Done ----------------------
 
