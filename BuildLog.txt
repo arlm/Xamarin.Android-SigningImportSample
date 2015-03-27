@@ -1,5 +1,5 @@
 
-Build started 27/03/2015 11:52:36.
+Build started 27/03/2015 12:02:51.
 __________________________________________________
 Project "/Users/alexandre/git/mono/SigningImportSample/Sample/Sample.csproj" (SignAndroidPackage target(s)):
 	
@@ -368,5 +368,5 @@ Build succeeded.
 	 0 Warning(s)
 	 0 Error(s)
 
-Time Elapsed 00:00:53.7683310
+Time Elapsed 00:01:44.9966820
 
