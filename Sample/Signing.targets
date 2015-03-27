@@ -6,4 +6,3 @@
     <AndroidSigningKeyAlias>key-alias</AndroidSigningKeyAlias>
     <AndroidSigningKeyPass>key-alias-password</AndroidSigningKeyPass>
 </PropertyGroup>
-<Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
