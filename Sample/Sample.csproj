@@ -37,7 +37,7 @@
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
     <ConsolePause>false</ConsolePause>
     <AndroidKeyStore>True</AndroidKeyStore>
-    <AndroidSigningKeyStore>/path/to/keystore</AndroidSigningKeyStore>
+    <AndroidSigningKeyStore>mykeystore.jks</AndroidSigningKeyStore>
     <AndroidSigningStorePass>keystore-password</AndroidSigningStorePass>
     <AndroidSigningKeyAlias>key-alias</AndroidSigningKeyAlias>
     <AndroidSigningKeyPass>key-alias-password</AndroidSigningKeyPass>
