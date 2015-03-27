@@ -36,7 +36,6 @@
     <WarningLevel>4</WarningLevel>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
     <ConsolePause>false</ConsolePause>
-    <Import Project="Signing.targets" Condition="Exists('Signing.targets')" />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,3 +64,4 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
 </Project>
+<Import Project="Signing.targets" Condition="Exists('Signing.targets')" />
